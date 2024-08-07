@@ -4,4 +4,6 @@ selection sort-https://github.com/manishthavisi/DAA-2203A51032/blob/main/selecti
 
 week-1 2q:https://github.com/manishthavisi/DAA-2203A51032/blob/main/week1(2Q).c
 
-week-2 1q:https://github.com/manishthavisi/DAA-2203A51032/blob/main/week1(3Q).c
+week-1 3q:https://github.com/manishthavisi/DAA-2203A51032/blob/main/week1(3Q).c
+
+week-2 1q:https://github.com/manishthavisi/DAA-2203A51032/blob/main/week2(1Q).c
