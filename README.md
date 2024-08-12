@@ -11,3 +11,5 @@ week-2 1q:https://github.com/manishthavisi/DAA-2203A51032/blob/main/week2(1Q).c
 week-2 2q:https://github.com/manishthavisi/DAA-2203A51032/blob/main/week2(2Q).c
 
 binarysearch:https://github.com/manishthavisi/DAA-2203A51032/blob/main/arun%20salary%20binary%20search.cpp
+
+merge sort:https://github.com/manishthavisi/DAA-2203A51032/blob/main/merge%20sort.c
